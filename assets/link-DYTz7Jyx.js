@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill-P2Xu9kJm.js";import{t as e}from"./theme-lAyR2tJU.js";import{t}from"./LinkCodeDialog-V37ty4tL.js";import{t as n}from"./jsx-runtime-fhy-HMBr.js";var r=e(),i=n();matchMedia(`(prefers-color-scheme: dark)`).matches&&(document.documentElement.dataset.theme=`dark`),(0,r.createRoot)(document.getElementById(`root`)).render((0,i.jsx)(t,{page:!0}));
